@@ -1,0 +1,10 @@
+langgraph 
+langchain 
+langchain-anthropic 
+GitPython 
+PyGithub 
+pydantic
+dotenv
+google-generativeai
+cassandra-driver
+astrapy
